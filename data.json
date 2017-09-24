@@ -1235,6 +1235,10 @@
 	],
 	"project": [
 		{
+			"description": "B-amooz",
+			"blogPost": "http://b-amooz.com/"
+		},
+		{
 			"url": "http://blissfuljs.com/",
 			"image": "http://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
 			"name": "Bliss",
